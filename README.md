@@ -1,6 +1,7 @@
 # covid19-intervention-data
-This repository contains Non-Pharmaceutical Interventions (NPIs) at the county level for a selection of counties within the United States. This data is collected by hand with reference to government health websites and local news media reports. NPIs of different types are listed as columns and the rows indicate when that NPI went into effect for that particular locality.
+This repository contains Non-Pharmaceutical Interventions (NPIs) at the county level for a selection of counties within the United States. This data is collected by hand with reference to government health websites and local news media reports. NPIs of different types are listed as columns and the rows indicate when that NPI went into effect for that particular locality. We provide this data free of restrictions, but ask that you attribute the data to Keystone Strategy.
 
+# NPIs Included
 The NPIs defined are:
 - SD
   Social Distancing of the general population.
@@ -16,7 +17,7 @@ The NPIs defined are:
   A gathering size limitation, with the digits indicating the cieling of acceptable gatherings. A government order indicating that gatherings above that size are prohibited.
 
 
-
+# Covered Counties
 We are working on expanding and updating the dataset in the changing circumstances. As of today, the dataset includes the counties listed below: 
 Alameda County, CA
 Bergen County, NJ
