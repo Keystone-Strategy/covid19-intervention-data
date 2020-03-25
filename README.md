@@ -14,7 +14,7 @@ The NPIs defined are:
 
 
 # Covered Counties
-We are working on expanding and updating the dataset in the changing circumstances. As of today, the dataset includes the counties listed below: 
+We are working on expanding and updating the dataset in the changing circumstances. As of today, the dataset includes the counties listed below:\ 
 Alameda County, CA\
 Bergen County, NJ\
 Bexar County, TX\
