@@ -3,18 +3,14 @@ This repository contains Non-Pharmaceutical Interventions (NPIs) at the county l
 
 # NPIs Included
 The NPIs defined are:
-- SD
-  Social Distancing of the general population.
-- SDO
-  Social Distancing of particularly vulnerable portions of the populaton
-- PC
-  Closure of schools and universities.
-- CPV
-  Closure of Public Venues. A government order closing gathering venues for in-person service, such as restaurants, bars, and theaters. 
-- NESC
-  Non-Essential Services Closure. A government order closing non-essential services and shops.
-- GS_XX
-  A gathering size limitation, with the digits indicating the cieling of acceptable gatherings. A government order indicating that gatherings above that size are prohibited.
+•	SDO - Social Distancing of particularly vulnerable portions of the population
+•	SD - Social Distancing of the general population
+•	GS_XX - Gathering size limitation, with the digits indicating the ceiling of acceptable gatherings. A government order indicating that gatherings above that size are prohibited
+•	CPV - Closure of Public Venues. A government order closing gathering venues for in-person service, such as restaurants, bars, and theaters
+•	PC - Closure of schools and universities
+•	NESC - Non-Essential Services Closure, i.e. a government order closing non-essential services and shops
+•	LD – Lock Down (pending)
+
 
 
 # Covered Counties
