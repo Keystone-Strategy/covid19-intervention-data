@@ -11,7 +11,7 @@ The NPIs defined are:
 •	CPV - Closure of Public Venues. A government order closing gathering venues for in-person service, such as restaurants, bars, and theaters\
 •	PC - Closure of schools and universities\
 •	NESC - Non-Essential Services Closure, i.e. a government order closing non-essential services and shops\
-•	LD – Lock Down (pending)
+•	LD – Lock Down (pending)\
 •	RGC – Religious Gathering Cancellation
 
 
