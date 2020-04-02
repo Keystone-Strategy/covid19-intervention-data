@@ -1,5 +1,7 @@
 # covid19-intervention-data
-This repository contains Non-Pharmaceutical Interventions (NPIs) at the county level for a selection of counties within the United States. This data is collected by hand with reference to government health websites and local news media reports. NPIs of different types are listed as columns and the rows indicate when that NPI went into effect for that particular locality. We provide this data free of restrictions, but ask that you attribute the data to Keystone Strategy. We have also produced the underyling data, uncleaned and with citation.
+This repository contains Non-Pharmaceutical Interventions (NPIs) at the county level for a selection of counties within the United States. These NPIs are targeted at the novel coronavirus. This data is collected by hand with reference to government health websites and local news media reports. NPIs of different types are listed as columns and the rows indicate when that NPI went into effect for that particular locality. We provide this data free of restrictions, but ask that you attribute the data to Keystone Strategy. We have also produced the underyling data, uncleaned and with citation.
+
+You can read more about this dataset, provided by Keystone Strategy, here: https://www.keystonestrategy.com/coronavirus-covid19-intervention-dataset-model/
 
 # NPIs Included
 The NPIs defined are:
@@ -10,6 +12,8 @@ The NPIs defined are:
 •	PC - Closure of schools and universities\
 •	NESC - Non-Essential Services Closure, i.e. a government order closing non-essential services and shops\
 •	LD – Lock Down (pending)
+•	RGC – Religious Gathering Cancellation
+
 
 
 
