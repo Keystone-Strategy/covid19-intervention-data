@@ -18,35 +18,4 @@ The NPIs defined are:
 
 
 # Covered Counties
-We are working on expanding and updating the dataset in the changing circumstances. As of today, the dataset includes the counties listed below:\ 
-Alameda County, CA\
-Bergen County, NJ\
-Bexar County, TX\
-Contra Costa County, CA\
-Cook County, IL\
-Dallas County, TX\
-Denver County, CO\
-Dupage County, IL\
-Fulton County, GA\
-Hudson County, NJ\
-Johnson County, KS\
-King County, WA\
-Lake County, IL\
-Las Vegas County, NV\
-Los Angeles County, CA\
-Miami Dade County, FL\
-Middlesex County, MA\
-Nassau County, NY\
-New York City, NY\
-Norfolk County, MA\
-Rockland County, NY\
-San Diego County, CA\
-San Francisco County, CA\
-San Mateo County, CA\
-Santa Clara County, CA\
-Snohomish County, WA\
-Suffolk County, MA\
-Washington DC\
-Wayne County, MI\
-Westchester County, NY
-
+We are working on expanding and updating the dataset in the changing circumstances. As of today, the dataset includes over 300 counties, including all counties with at least 100 confirmed cases as of April 6th, and all 50 states.
