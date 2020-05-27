@@ -14,14 +14,15 @@ There are two available sheets: a raw sheet of policies and an inherited sheet o
 
 # NPIs Included
 The NPIs defined are:
-•	social_distancing - Social Distancing mandate of at least 6 feet between people\
-•	shelter_in_place - An order indicating that people should shelter in their homes except for essential reasons\
-•	gathering_size_XX_to_YY - Gathering size limitation, with the digits indicating the ceiling of acceptable gatherings. A government order indicating that gatherings above that size are prohibited\
-•	closing_of_public_venues - Closure of Public Venues. A government order closing gathering venues for in-person service, such as restaurants, bars, and theaters\
-•	school_closure - Closure of schools and universities\
-•	non_essential_services_closure - Non-Essential Services Closure, i.e. a government order closing non-essential services and shops\
-•	lockdown – Lock Down (pending)\
-•	religious_gathering_cancellation – Cancelling of religious gatherings, either explicitly or implicitly by applying gathering size / shelter-in-place limitations to religious gatherings as well.
+
+* social_distancing - Social Distancing mandate of at least 6 feet between people
+* shelter_in_place - An order indicating that people should shelter in their homes except for essential reasons
+* gathering_size_XX_to_YY - Gathering size limitation, with the digits indicating the ceiling of acceptable gatherings. A government order indicating that gatherings above that size are prohibited
+* closing_of_public_venues - Closure of Public Venues. A government order closing gathering venues for in-person service, such as restaurants, bars, and theaters
+* school_closure - Closure of schools and universities
+* non_essential_services_closure - Non-Essential Services Closure, i.e. a government order closing non-essential services and shops
+* lockdown – Lock Down (pending)
+* religious_gathering_cancellation – Cancelling of religious gatherings, either explicitly or implicitly by applying gathering size / shelter-in-place limitations to religious gatherings as well.
 
 
 
