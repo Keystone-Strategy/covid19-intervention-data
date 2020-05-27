@@ -459,7 +459,7 @@ fip_code,county,state,npi,start_date,end_date,citation,note
 46,,South Dakota,lockdown,,,nan,nan
 46,,South Dakota,non-essential_services_closure,3/19/2020,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202006.PDF,"only sending home non essential state personnel, not extending to other businesses"
 46,,South Dakota,religious_gatherings_banned,,,nan,nan
-46,,South Dakota,school_closure,3/16/2020,,nan,Status between March 24 and April 6 is unclear between order and recommendation, see https://github.com/Keystone-Strategy/covid19-intervention-data/issues/9
+46,,South Dakota,school_closure,3/16/2020,,nan,Status between March 24 and April 6 is unclear between order and recommendation; see https://github.com/Keystone-Strategy/covid19-intervention-data/issues/9
 46,,South Dakota,shelter_in_place,,,nan,nan
 46,,South Dakota,social_distancing,3/23/2020,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202008.PDF,order dedicated space to following CDC social distancing guidelines
 47,,Tennessee,closing_of_public_venues,3/23/2020,,https://newschannel9.com/news/local/tennesseesgovernorlimitssocialgatheringsamidcovid19outbreak,nan
