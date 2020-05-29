@@ -459,7 +459,7 @@ fip_code,county,state,npi,start_date,end_date,citation,note
 46,,South Dakota,lockdown,,,,
 46,,South Dakota,non-essential_services_closure,2020-03-19,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202006.PDF,"only sending home non essential state personnel, not extending to other businesses"
 46,,South Dakota,religious_gatherings_banned,,,,
-46,,South Dakota,school_closure,,,,3/24/20 *gov. recommends school closures but not ordered https://www.keloland.com/news/healthbeat/coronavirus/gov-noem-discusses-distance-education-amid-covid-19-fight/
+46,,South Dakota,school_closure,2020-03-16,,,Status between March 24 and April 6 is unclear between order and recommendation; see https://github.com/Keystone-Strategy/covid19-intervention-data/issues/9
 46,,South Dakota,shelter_in_place,,,,
 46,,South Dakota,social_distancing,2020-03-23,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202008.PDF,order dedicated space to following CDC social distancing guidelines
 47,,Tennessee,closing_of_public_venues,2020-03-23,,https://newschannel9.com/news/local/tennesseesgovernorlimitssocialgatheringsamidcovid19outbreak,
@@ -3650,7 +3650,7 @@ fip_code,county,state,npi,start_date,end_date,citation,note
 46099,Minnehaha,South Dakota,gathering_size_500_to_101,,,,
 46099,Minnehaha,South Dakota,non-essential_services_closure,2020-03-19,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202006.PDF,"only sending home non essential state personnel, not extending to other businesses"
 46099,Minnehaha,South Dakota,religious_gatherings_banned,,,,
-46099,Minnehaha,South Dakota,school_closure,,,,3/24/20 *gov. recommends school closures but not ordered https://www.keloland.com/news/healthbeat/coronavirus/gov-noem-discusses-distance-education-amid-covid-19-fight/
+46099,Minnehaha,South Dakota,school_closure,2020-03-16,,,Status between March 24 and April 6 is unclear between order and recommendation; see https://github.com/Keystone-Strategy/covid19-intervention-data/issues/9
 46099,Minnehaha,South Dakota,shelter_in_place,,,,
 46099,Minnehaha,South Dakota,social_distancing,2020-03-23,,https://sdsos.gov/generalinformation/executiveactions/executiveorders/assets/202008.PDF,order dedicated space to following CDC social distancing guidelines
 47037,Davidson,Tennessee,lockdown,,,,
