@@ -5,6 +5,13 @@ These NPIs are targeted at the novel coronavirus. This data is collected by hand
 
 You can read more about this dataset, provided by Keystone Strategy, here: https://www.keystonestrategy.com/coronavirus-covid19-intervention-dataset-model/
 
+# 2020-06-18 Update
+On 2020-06-18, we pushed another update. There are two big changes. First, the dataset now covers over 650 states and localities. Second, we have now begun to capture policy end dates - the dates at which particular policies are no longer in effect.
+
+The policy is in the same format as before, though there is one clarification. Some localities have enacted policies, lifted them, and then re-enacted them. This is captured in two seperate rows - one recording the start / end and one recording the start. We will continue this format as we continue to update the dataset.
+
+We will continue to work to update the dataset and hopefully be able to push updates more contiounsly, as policies are lifted and reinstated in this phase of the response. 
+
 # 2020-04-16 Update
 On 2020-04-16, we pushed a complete update, including reformatting of the data. The data now includes all US states and territories and all counties with at least 100 confirmed cases as of 2020-04-06, according to JHU, for a total of over 380 localities. 
 
