@@ -5,6 +5,8 @@ These NPIs are targeted at the novel coronavirus. This data is collected by hand
 
 You can read more about this dataset, provided by Keystone Strategy, here: https://www.keystonestrategy.com/coronavirus-covid19-intervention-dataset-model/
 
+This data is provided under a Creative Commons Attribution 4.0 International Public License.
+
 # 2020-06-18 Update
 On 2020-06-18, we pushed another update. There are two big changes. First, the dataset now covers over 650 states and localities. Second, we have now begun to capture policy end dates - the dates at which particular policies are no longer in effect.
 
